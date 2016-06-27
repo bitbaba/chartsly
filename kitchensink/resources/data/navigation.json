@@ -1,0 +1,212 @@
+{
+    "expanded" : true,
+    "id"       : "root",
+    "children" : [
+        {
+            "text"      : "Indicators",
+            "expanded"  : true,
+            "children"  : [
+                {
+                    "id"    : "basic-accumdist",
+                    "text"  : "Accumulation/Distribution Line (ADL)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-adx",
+                    "text"  : "Average Directional Index (ADX)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-atr",
+                    "text"  : "Average True Range (ATR)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-cmf",
+                    "text"  : "Chaikin Money Flow (CMF)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-cci",
+                    "text"  : "Commodity Channel Index (CCI)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-fast-stoch",
+                    "text"  : "Fast Stochastic",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-full-stoch",
+                    "text"  : "Full Stochastic",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-macd",
+                    "text"  : "MACD",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-pmo",
+                    "text"  : "DecisionPoint Price Momentum Oscillator (PMO)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-mfi",
+                    "text"  : "Money Flow Index (MFI)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-obv",
+                    "text"  : "On Balance Volume (OBV)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-roc",
+                    "text"  : "Rate Of Change (ROC)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-rsi",
+                    "text"  : "Relative Strength Index (RSI)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-rvi",
+                    "text"  : "Relative Vigor Index (RVI)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-trix",
+                    "text"  : "TRIX",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-william",
+                    "text"  : "William %R",
+                    "leaf"  : true
+                }
+            ]
+        }, {
+            "text"      : "Overlays",
+            "expanded"  : true,
+            "children"  : [
+                {
+                    "id"    : "basic-bbands",
+                    "text"  : "Bollinger Bands (BBands)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-ema",
+                    "text"  : "Exponential Moving Average (EMA)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-env",
+                    "text"  : "Moving Average Envelopes (MAE)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-psar",
+                    "text"  : "Parabolic SAR (PSAR)",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-sma",
+                    "text"  : "Simple Moving Average (SMA)",
+                    "leaf"  : true
+                }
+            ]
+        }, {
+            "text"      : "Interactions",
+            "expanded"  : true,
+            "children"  : [
+                {
+                    "id"    : "basic-annotation",
+                    "text"  : "Add Annotations",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-crosshair",
+                    "text"  : "Crosshair",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-fibonacci",
+                    "text"  : "Fibonacci Retracements",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-trendline",
+                    "text"  : "Trendline",
+                    "leaf"  : true
+                }
+            ]
+        }, {
+            "text"      : "Stock Events",
+            "expanded"  : true,
+            "children"  : [
+                {
+                    "id"    : "basic-bonus",
+                    "text"  : "Bonus",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-dividend",
+                    "text"  : "Dividend",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-split",
+                    "text"  : "Split",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-rights",
+                    "text"  : "Rights",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-event-combination",
+                    "text"  : "Combinations",
+                    "leaf"  : true
+                }
+            ]
+        }, {
+            "text"      : "Chart Combinations",
+            "expanded"  : true,
+            "children"  : [
+                {
+                    "id"    : "basic-combo-multi-indicators",
+                    "text"  : "Multiple Indicators",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-combo-multi-overlays",
+                    "text"  : "Multiple Overlays",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-combo-indicator-overlay",
+                    "text"  : "Indicators with Overlays",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-combo-overlay-interactions",
+                    "text"  : "Overlays with Interactions",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-combo-event-interaction",
+                    "text"  : "Financial Events and Interactions",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "basic-combo-all",
+                    "text"  : "Mix of All",
+                    "leaf"  : true
+                }
+            ]
+        }
+    ]
+}
