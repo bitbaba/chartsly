@@ -5,7 +5,7 @@ Ext.define("KS.view.stockcharts.interactions.crosshair.Basic", {
     extend: 'Ext.Panel',
     xtype: 'basic-crosshair',
     requires: [
-        'Ext.chart.interactions.Crosshair',
+        'Ext.chart.interactions.Crosshair'
     ],
     exampleDescription: [
         'A CandleStick chart with Crosshair interaction. You may start the interaction with drag to see the crosshair lines.'

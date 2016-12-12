@@ -63,7 +63,7 @@ Ext.define("KS.view.stockcharts.indicators.rvi.Basic", {
                             style:{
                                 backgroundColor:'#fff',
                                 border:'2px solid #E3742D',
-                                fontFamily:'Helvetica',
+                                fontFamily:'Helvetica'
                             },
                             renderer: function(tooltip,record, item) {
                                 var open = Util.formatNumber(record.get('open'),"0.0000");
@@ -83,7 +83,7 @@ Ext.define("KS.view.stockcharts.indicators.rvi.Basic", {
                         label: {
                            fontWeight: '300',
                            fontSize: '13px',
-                           fontFamily:'helvetica,arial,verdana,sans-serif',
+                           fontFamily:'helvetica,arial,verdana,sans-serif'
                         },
                         renderer:function(val){
                             if (val==0){
@@ -112,7 +112,7 @@ Ext.define("KS.view.stockcharts.indicators.rvi.Basic", {
                         label: {
                            fontWeight: '300',
                            fontSize: '13px',
-                           fontFamily:'helvetica,arial,verdana,sans-serif',
+                           fontFamily:'helvetica,arial,verdana,sans-serif'
                         }
                     }
                 ]

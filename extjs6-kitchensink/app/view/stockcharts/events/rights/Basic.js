@@ -83,7 +83,7 @@ Ext.define("KS.view.stockcharts.events.rights.Basic", {
                             style:{
                                 backgroundColor:'#fff',
                                 border:'2px solid #E3742D',
-                                fontFamily:'Helvetica',
+                                fontFamily:'Helvetica'
                             },
                             renderer: function(tooltip,record, item) {
                                 var open = Util.formatNumber(record.get('open'),"0.0000");

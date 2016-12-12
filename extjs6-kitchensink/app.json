@@ -42,7 +42,7 @@
      *      ]
      */
     "requires": [
-        "sencha-charts"
+	"sencha-charts"
     ],
 
     /**
@@ -183,8 +183,8 @@
      * Extra resources to be copied along when build
      */
     "resources": [
-		 
 		 "app/view/stockcharts",
+		 "resources",
 		 "images"
     ],
 

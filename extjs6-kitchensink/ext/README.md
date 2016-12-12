@@ -1,1 +1,3 @@
-This folder has been, consciously, left empty. You shall keep the SDK files here.
+# Sencha Ext JS
+
+This is the Sencha Ext JS Framework Package, or just "ext" for short.
